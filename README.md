@@ -39,3 +39,7 @@ https://anaconda.org/anaconda/spyder
 [week1](week1)
 
 [week2](week2)
+
+[week3]
+
+(week4)
