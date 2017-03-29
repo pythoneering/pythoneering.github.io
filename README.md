@@ -17,6 +17,9 @@ hosting
 
 edx.org
 
+
 20170329
+
+https://www.wired.com/2017/03/hey-can-find-pi-random-walk-heres/
 
 https://trinket.io/glowscript/a313e03de9
