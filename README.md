@@ -34,4 +34,6 @@ https://www.continuum.io/downloads
 
 https://anaconda.org/anaconda/spyder
 
-http://www.southampton.ac.uk/~fangohr/blog/installation-of-python-spyder-numpy-sympy-scipy-pytest-matplotlib-via-anaconda.html
+[]http://www.southampton.ac.uk/~fangohr/blog/installation-of-python-spyder-numpy-sympy-scipy-pytest-matplotlib-via-anaconda.html
+
+[](week1)
