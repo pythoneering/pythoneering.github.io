@@ -9,4 +9,6 @@ pythoneering.github.io
 
 [week4](week4)
 
-Formatted with [markdown](https://guides.github.com/features/mastering-markdown/)
+Formatted with 
+[markdown](https://guides.github.com/features/mastering-markdown/)
+[github markdown](https://help.github.com/articles/basic-writing-and-formatting-syntax/#links)
