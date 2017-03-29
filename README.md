@@ -29,3 +29,9 @@ http://www.glowscript.org/
 https://trinket.io/sense-hat
 
 https://hourofpython.com/
+
+https://www.continuum.io/downloads
+
+https://anaconda.org/anaconda/spyder
+
+http://www.southampton.ac.uk/~fangohr/blog/installation-of-python-spyder-numpy-sympy-scipy-pytest-matplotlib-via-anaconda.html
