@@ -36,4 +36,6 @@ https://anaconda.org/anaconda/spyder
 
 []http://www.southampton.ac.uk/~fangohr/blog/installation-of-python-spyder-numpy-sympy-scipy-pytest-matplotlib-via-anaconda.html
 
-[week1](week1/week1)
+[week1](week1)
+
+[week2](week2)
