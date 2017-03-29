@@ -11,4 +11,5 @@ pythoneering.github.io
 
 Formatted with 
 [markdown](https://guides.github.com/features/mastering-markdown/)
+and
 [github markdown](https://help.github.com/articles/basic-writing-and-formatting-syntax/#links)
