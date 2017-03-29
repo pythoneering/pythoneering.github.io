@@ -23,3 +23,7 @@ edx.org
 https://www.wired.com/2017/03/hey-can-find-pi-random-walk-heres/
 
 https://trinket.io/glowscript/a313e03de9
+
+http://www.glowscript.org/
+
+https://trinket.io/sense-hat
