@@ -1,17 +1,1 @@
-# pythoneering.github.io
-pythoneering.github.io
-
-[week1](week1)
-
-[week2](week2)
-
-[week3](week3)
-
-[week4](week4)
-
-Formatted with 
-[markdown](https://guides.github.com/features/mastering-markdown/)
-and
-[github markdown](https://help.github.com/articles/basic-writing-and-formatting-syntax/#links)
-
-This site was built using [GitHub Pages](https://pages.github.com/).
+moved to https://github.com/pythoneering/pythoneering.github.io/wiki
