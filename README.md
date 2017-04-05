@@ -1,2 +1,2 @@
-moved to [](https://github.com/pythoneering/pythoneering.github.io/wiki)
+moved to [pyth](https://github.com/pythoneering/pythoneering.github.io/wiki)
 
